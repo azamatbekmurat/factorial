@@ -1,0 +1,11 @@
+#result {
+  display: none;
+}
+
+#answer {
+  text-decoration: underline;
+  font-size: 25px;
+  font-style: italic;
+  font-weight: bold;
+  color: #248c19;
+}
